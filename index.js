@@ -16,7 +16,39 @@ const generateReadme = ({
   tests,
   github,
   email,
-}) => ``;
+}) => 
+`# ${title}
+
+## Description
+
+${description}
+
+## Installation
+
+${installation}
+
+## Usage
+
+${usage}
+
+## License
+
+${license}
+
+## How to Contribute
+
+${contribution}
+
+## Tests
+
+${tests}
+
+## Questions
+
+GitHub Page - https://github.com/${github} <br>
+Email - ${email}
+
+`;
 
 // input => description, installation instructions, usage information, contribution guidelines, test instructions and question
 // quesiton should be link to my own profile account and have a email address
