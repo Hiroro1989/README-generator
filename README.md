@@ -1,31 +1,31 @@
-# sample
+# sample1
 
 ## Description
 
-abcd
+dada
 
 ## Installation
 
-thi itss
+dad
 
 ## Usage
 
-dada
+daaaa
 
 ## License
 
-Apache 2.0 License
+BSD 3-Clause License
 
 ## How to Contribute
 
-da
+dada
 
 ## Tests
 
-da
+dada
 
 ## Questions
 
-GitHub Page - https://github.com/hiroro <br>
-Email - raa.com
-
+Please contact me if you have any questions. <br>
+GitHub Profile Page - https://github.com/hiroro1989 <br>
+Email - (mailto:abcd@gmail.com)
