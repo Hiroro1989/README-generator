@@ -60,8 +60,8 @@ ${tests}
 ## Questions
 
 Please contact me if you have any questions. <br>
-GitHub Profile Page - https://github.com/${github} <br>
-Email - (mailto:${email})
+GitHub Profile Page -[${github}] (https://github.com/${github}) <br>
+Email - [${email}](mailto:${email})
 `;
 
 // input => description, installation instructions, usage information, contribution guidelines, test instructions and question
