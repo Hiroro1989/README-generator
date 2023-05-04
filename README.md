@@ -15,7 +15,7 @@ You can quickly and easily create a professional README file by using a command-
 
 4. node index.js
 
-[Demo Video] (https://drive.google.com/file/d/15Oxaneomq4eZlR9udyK2AFsGEKiXX59b/view?usp=sharing)
+![Demo Video](https://drive.google.com/file/d/15Oxaneomq4eZlR9udyK2AFsGEKiXX59b/view?usp=sharing)
 
 ![Console Screen](./assets/consoleScreen.png)
 ![sample readme](./assets/sampleReame.png)
