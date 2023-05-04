@@ -1,40 +1,26 @@
-# Sample [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# README generator
 
 ## Description
 
-Short description of the project.
+You can quickly and easily create a professional README file by using a command-line application by this README generator. Your README file will have Description, Table of contents, Installation, Usage, License, Contribution, Tests and Qustions part. The tool is built using Node.js and can be run on any operating system that supports Node.js.
 
-## Table of Contents
+## Installtion and Usage
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contribution](#contribution)
-- [Tests](#tests)
-- [Questions](#questions)
+1. Clone this repository to your local machine using the following command: 
+    git clone https://github.com/Hiroro1989/README-generator.git
 
-## Installation
+2. Navigate to the project directory
 
-Describe how to install the project, what dependencies are needed, and how to get the project up and running.
+3. npm install
 
-## Usage
+4. node index.js
 
-Explain how to use the project, including examples. Provide instructions on how to navigate through the project.
+[Demo Video] (https://drive.google.com/file/d/15Oxaneomq4eZlR9udyK2AFsGEKiXX59b/view?usp=sharing)
 
-## License
+[Console Screen](./assets/consoleScreen.png)
+[sample readme](./assets/sampleReame.png)
 
-This project is under the Apache 2.0 License.
 
-## How to Contribute
 
-Explain how other developers can contribute to the project, including any guidelines or rules for contributions. Include a section on how to submit issues or bug reports.
 
-## Tests
 
-Test parts
-
-## Questions
-
-Please contact me if you have any questions. <br>
-GitHub Profile Page -[Hiroro1989] (https://github.com/Hiroro1989) <br>
-Email - [abcd@gmail.com](mailto:abcd@gmail.com)
