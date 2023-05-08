@@ -190,7 +190,7 @@ Email - [${email}](mailto:${email})
       
       const readmeCoontent = generateReadme(answers);
 
-      fs.writeFile("README.md", readmeCoontent, (err) =>
+      fs.writeFile("README-sample.md", readmeCoontent, (err) =>
         err ? console.log(err) : console.log("Successfully created README.md!")
       );
     });
